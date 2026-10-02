@@ -1,6 +1,6 @@
 # Hi 👋, I'm Thavuth
 
-### Corporate Trainer | Technical Educator | Web Developer | Cloud & Data Enthusiast
+### Corporate Trainer & Technical Educator | React.js & Web Development | Cloud & OCI | Data Analytics | Python & AI/ML
 
 I am a Corporate Trainer with 3 years of experience in technical training and Mathematics education.
 
